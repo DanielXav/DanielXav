@@ -3,7 +3,6 @@
 - 🔭 I’m currently study on UEPB - Computer Science
 - 🌱 I’m currently learning HTML, CSS, JAVASCRIPT, NODE, JAVA, SQL
 - 🤔 I’m looking for help with JAVA, JS
-- 📫 How to reach me: dxavier194@gmail.com / @dan1elxavier
 
 <div align="center">
   <a href="https://github.com/DanielXav">
