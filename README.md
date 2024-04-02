@@ -1,8 +1,7 @@
 ### Hi there 👋, I'm Daniel Xavier 
 
 - 🔭 I’m currently study on UEPB - Computer Science
-- 🌱 I’m currently learning HTML, CSS, JAVASCRIPT, NODE, JAVA, SQL
-- 🤔 I’m looking for help with JAVA, JS
+- 🌱 I’m currently learning JAVA, SPRING, JAVASCRIPT, ANGULAR, CLOUD
 
 <div align="center">
   <a href="https://github.com/DanielXav">
